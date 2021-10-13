@@ -13,10 +13,11 @@ function ServicesSection() {
                 <div className="cards">
                     <div className="card">
                         <div className="icon">
-                            <img src={clock} alt="clock" /></div>
+                            <img src={clock} alt="clock" />
                             <h3>Efficient</h3>
                             <p>Lorem ipsum dolor sit amet.</p>
                         </div>
+                    </div>
                         <div className="card">
                         <div className="icon">
                             <img src={teamwork} alt="teamwork"/>
